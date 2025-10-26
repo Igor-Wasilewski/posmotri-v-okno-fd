@@ -32,7 +32,6 @@ ol {
   justify-content: center;
   align-items: center;
   inline-size: 1200px;
-  min-height: 800px;
   block-size: 100%;
   margin: auto;
   color: #fff;
@@ -252,7 +251,7 @@ ol {
   border-bottom: 1px solid #fff;
   color: #fff;
   appearance: none;
-  font-family: 'Fira Sans Condensed', ;
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 100%;
